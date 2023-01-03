@@ -31,3 +31,49 @@ p > a{
 p > a:hover{
     text-decoration: underline;
 }
+#estrofe-1 {
+    text-align: left;
+    height: 500px;
+    width: 100%;
+}
+article{
+    padding: 50px 50px 50px 0px;
+    text-align: left;
+    
+}
+pre{
+    font-family: 'Sriracha', cursive;
+    font-size: 1.8em;
+}
+#estrofe-2{
+    background: white url('pacote-d012/imagens/background001.jpg') center top no-repeat fixed;
+    background-size: cover;
+}
+.conteudo-2 > pre {
+    background-color: rgba(0, 0, 0, 0.486);
+    color: white;
+    width: 350px;
+    padding: 0px 0px 0px 50px;
+}
+#estrofe-4{
+    background: white url('pacote-d012/imagens/background002.jpg') center top no-repeat fixed;
+}
+#estrofe-4 pre{
+    background-color: rgba(0, 0, 0, 0.185);
+    width: 400px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+
+}
+
+footer{
+    background: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 6px;
+    font-weight: normal;
+
+}
